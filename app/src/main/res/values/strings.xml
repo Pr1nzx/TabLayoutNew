@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Top 10 Anime dan Manga</string>
+
+    <string name="tab_text_1">Anime</string>
+    <string name="tab_text_2">Manga</string>
+
+    <string-array name="anime_titles">
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Attack on Titan (Shingeki no Kyojin)</item>
+        <item>My Hero Academia (Boku no Hero Academia)</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>Death Note</item>
+        <item>Cowboy Bebop</item>
+        <item>Neon Genesis Evangelion</item>
+        <item>One Piece</item>
+        <item>Spirited Away (Studio Ghibli)</item>
+        <item>Your Name (Kimi no Na wa)</item>
+    </string-array>
+
+    <string-array name="anime_descriptions">
+        <item>Kisah seru tentang dua alkemis bersaudara yang berusaha menghidupkan kembali ibu mereka.</item>
+        <item>Cerita menegangkan tentang manusia yang bertahan hidup dari ancaman titan raksasa.</item>
+        <item>Kisah inspiratif tentang seorang anak tanpa kekuatan super di dunia penuh superhero.</item>
+        <item>Petualangan menegangkan Tanjiro Kamado yang menjadi pembasmi setan setelah keluarganya dibantai.</item>
+        <item>Permainan berbahaya antara seorang detektif genius dan seorang pembunuh berantai.</item>
+        <item>Petualangan luar angkasa sekelompok pemburu bayaran dengan soundtrack jazz dan gaya neo-noir.</item>
+        <item>Drama mecha yang mengeksplorasi tema kompleks seperti depresi dan isolasi.</item>
+        <item>Petualangan bajak laut epik dengan dunia yang luas, karakter yang banyak, dan perpaduan humor dan aksi.</item>
+        <item>Film animasi Studio Ghibli yang indah dan penuh imajinasi dengan tema coming-of-age.</item>
+        <item>Kisah romantis yang mengharukan tentang dua remaja yang terhubung dengan fenomena supernatural.</item>
+    </string-array>
+
+    <string-array name="manga_titles">
+        <item>One Piece</item>
+        <item>Attack on Titan (Shingeki no Kyojin)</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Death Note</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>My Hero Academia (Boku no Hero Academia)</item>
+        <item>Berserk</item>
+        <item>Vinland Saga</item>
+        <item>Vagabond</item>
+        <item>Monster</item>
+    </string-array>
+
+    <string-array name="manga_descriptions">
+        <item>Manga terlaris sepanjang masa dengan cerita yang luas dan fanbase yang berdedikasi.</item>
+        <item>Manga yang diakui secara kritis dengan aksi yang intens dan narasi yang mencekam.</item>
+        <item>Manga yang lengkap dan memuaskan dengan plot dan pengembangan karakter yang rumit.</item>
+        <item>Manga menegangkan dengan pertarungan kecerdasan antara detektif jenius dan dalang.</item>
+        <item>Manga yang memukau dengan karya seni yang indah dan cerita yang emosional.</item>
+        <item>Manga shounen populer dengan perpaduan aksi, humor, dan pertumbuhan karakter yang seimbang.</item>
+        <item>Manga dewasa yang dikenal dengan tema gelap, karakter kompleks, dan karya seni yang menakjubkan.</item>
+        <item>Epik sejarah yang berfokus pada balas dendam, penebusan dosa, dan kebrutalan perang.</item>
+        <item>Bayangan kembali dari pendekar pedang legendaris Miyamoto Musashi, dikenal dengan seni yang indah dan eksplorasi mendalam tentang sifat manusia.</item>
+        <item>Cerita menegangkan tentang seorang dokter yang mengejar mantan pasien yang telah menjadi monster.</item>
+    </string-array>
+
+</resources>
